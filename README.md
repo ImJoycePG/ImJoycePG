@@ -21,3 +21,10 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/299732456037154817?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
 </p>
+
+<!-- <div> -->
+<p align="center">
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imjoycepg&show_icons=true&theme=radical&count_private=true&locale=en" alt="imjoycepg" />
+</a>
+</p>
