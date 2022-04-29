@@ -3,4 +3,4 @@
 <p align="left">
   <a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
 
- <p align="left"> <a href="https://twitter.com/imjoycepg" target="blank"><img src="https://img.shields.io/twitter/follow/ryzeon_?logo=twitter&style=for-the-badge" alt="imjoycepg" /></a> </p>
+ <p align="left"> <a href="https://twitter.com/imjoycepg" target="blank"><img src="https://img.shields.io/twitter/follow/imjoycepg?logo=twitter&style=for-the-badge" alt="imjoycepg" /></a> </p>
