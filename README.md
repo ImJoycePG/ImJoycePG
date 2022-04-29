@@ -28,3 +28,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imjoycepg&show_icons=true&theme=radical&count_private=true&locale=en" alt="imjoycepg" />
 </a>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjoycepg&show_icons=true&theme=radical&locale=en&layout=compact" alt="imjoycepg" />
+</p>
