@@ -9,6 +9,7 @@
 
 - 🎮 I am currently working on my next minecraft server [LiveMC Network](https://twitter.com/LiveMCNetwork)
 
-<h2 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
