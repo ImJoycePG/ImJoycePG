@@ -6,7 +6,7 @@
  
 - 🏫 Currently at university I am learning **Java and C++**
 
-- 🎮 I am currently working on my next minecraft server [LiveMC Network](https://twitter.com/LiveMCNetwork)
+- 🎮 I am currently working on my next minecraft server [MysthicArk Studios](https://twitter.com/mysthicark)
 
 <h2 align="left">Languages:</h3>
 <p align="left">
