@@ -15,6 +15,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="c" width="40" height="40"/>
+
 
 <h2 align="left">My stats</h3>
 
