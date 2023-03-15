@@ -11,13 +11,16 @@
 <h2 align="left">Languages:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="c" width="40" height="40"/>
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/discordjs-plain.svg" alt="discordjs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+ 
 <h2 align="left">My stats</h3>
 
 <p align="left">
