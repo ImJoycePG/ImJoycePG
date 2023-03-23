@@ -4,7 +4,7 @@
 
  <br>
  
-- 🏫 Currently at university I am learning **Java and C++**
+- 🏫 Currently at university I am learning **Java, HTML5, Javascript, C#, C++, C**
 
 - 🎮 I am currently working on my next minecraft server [MysthicArk Studios](https://twitter.com/mysthicark)
 
