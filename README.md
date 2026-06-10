@@ -76,7 +76,9 @@ También tengo conocimientos en:
 - PHP
 - MySQL
 - C, actualmente en proceso de retomar práctica
-
+- NextJS, estoy en pleno aprendizaje
+- BullQM, estoy en pleno aprendizaje
+- Redis, estoy en pleno aprendizaje
 ---
 
 ## Actualmente
