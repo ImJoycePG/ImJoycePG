@@ -17,9 +17,9 @@
 
 ## Sobre mí
 
-Soy programadora con experiencia en el desarrollo y mantenimiento de sistemas web, especialmente orientados a soluciones empresariales y sistemas ERP.
+Soy programador con experiencia en el desarrollo y mantenimiento de sistemas web, especialmente orientados a soluciones empresariales y sistemas ERP.
 
-Actualmente trabajo de forma independiente como programadora en un sistema web ERP, participando en el desarrollo de funcionalidades, gestión de bases de datos, mejoras del sistema y soporte técnico relacionado al entorno web.
+Actualmente trabajo de forma independiente como programador en un sistema web ERP, participando en el desarrollo de funcionalidades, gestión de bases de datos, mejoras del sistema y soporte técnico relacionado al entorno web.
 
 Me interesa crear soluciones prácticas, ordenadas y funcionales que ayuden a mejorar los procesos de una empresa mediante tecnología.
 
@@ -70,7 +70,7 @@ También tengo conocimientos en:
 
 - Java
 - C#
-- C++
+- C++, actualmente en proceso de retomar práctica
 - JavaScript
 - HTML
 - PHP
@@ -80,8 +80,6 @@ También tengo conocimientos en:
 ---
 
 ## Actualmente
-
-Actualmente me desempeño como programadora independiente, enfocada en el desarrollo y mejora de un sistema web ERP.
 
 Aunque por ahora no tengo un proyecto personal activo, continúo fortaleciendo mis conocimientos en desarrollo web, bases de datos y soluciones empresariales.
 
@@ -95,14 +93,4 @@ Aunque por ahora no tengo un proyecto personal activo, continúo fortaleciendo m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjoycepg&show_icons=true&theme=radical&locale=es&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## Contacto
-
-<p align="left">
-  <a href="https://twitter.com/imjoycepg" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-imjoycepg-red?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
 </p>
