@@ -1,41 +1,108 @@
-<h1 align="center">Hi 😉, I'm Joyce, I'm currently 22 years old 🤠</h1>
+<h1 align="center">Hola, soy Joyce Pauca 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/imjoycepg" target="blank"><img src="https://img.shields.io/twitter/follow/imjoycepg?color=red&style=for-the-badge" alt="imjoycepg" /></a> </p>
-
- <br>
- 
-- 🏫 Currently at university I am learning **Java, HTML5, Javascript, C#, C++, C**
-
-- 🎮 I am currently working on my next minecraft server [MysthicArk Studios](https://twitter.com/mysthicark)
-
-<h2 align="left">Languages:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" alt="discordjs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
- 
-<h2 align="left">My stats</h3>
-
-<p align="left">
-    <a href="https://discord.com/users/299732456037154817" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/299732456037154817?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
-    </a>
+<p align="center">
+  Programadora Web | Desarrollo Backend | Sistemas ERP | Bases de Datos
 </p>
 
-<!-- <div> -->
-<p align="left">
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imjoycepg&show_icons=true&theme=radical&count_private=true&locale=en" alt="imjoycepg" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/imjoycepg" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/imjoycepg?color=red&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/imjoycepg" target="_blank">
+    <img src="https://img.shields.io/github/followers/imjoycepg?style=for-the-badge" alt="GitHub Followers" />
+  </a>
 </p>
 
+---
+
+## Sobre mí
+
+Soy programadora con experiencia en el desarrollo y mantenimiento de sistemas web, especialmente orientados a soluciones empresariales y sistemas ERP.
+
+Actualmente trabajo de forma independiente como programadora en un sistema web ERP, participando en el desarrollo de funcionalidades, gestión de bases de datos, mejoras del sistema y soporte técnico relacionado al entorno web.
+
+Me interesa crear soluciones prácticas, ordenadas y funcionales que ayuden a mejorar los procesos de una empresa mediante tecnología.
+
+---
+
+## Experiencia y enfoque actual
+
+- Desarrollo de sistemas web
+- Programación backend
+- Mantenimiento y mejora de sistemas ERP
+- Gestión de bases de datos
+- Desarrollo con PHP y MySQL
+- Análisis y solución de errores en sistemas empresariales
+- Automatización y optimización de procesos internos
+
+---
+
+## Tecnologías que manejo
+
+### Lenguajes de programación
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjoycepg&show_icons=true&theme=radical&locale=en&layout=compact" alt="imjoycepg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
+
+### Desarrollo web
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</p>
+
+### Bases de datos
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
+---
+
+## Conocimientos adicionales
+
+También tengo conocimientos en:
+
+- Java
+- C#
+- C++
+- JavaScript
+- HTML
+- PHP
+- MySQL
+- C, actualmente en proceso de retomar práctica
+
+---
+
+## Actualmente
+
+Actualmente me desempeño como programadora independiente, enfocada en el desarrollo y mejora de un sistema web ERP.
+
+Aunque por ahora no tengo un proyecto personal activo, continúo fortaleciendo mis conocimientos en desarrollo web, bases de datos y soluciones empresariales.
+
+---
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imjoycepg&show_icons=true&theme=radical&count_private=true&locale=es" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imjoycepg&show_icons=true&theme=radical&locale=es&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## Contacto
+
+<p align="left">
+  <a href="https://twitter.com/imjoycepg" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-imjoycepg-red?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
 </p>
