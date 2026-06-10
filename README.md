@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Joyce Pauca 👋</h1>
+<h1 align="center">Hola, soy Joyce 👋</h1>
 
 <p align="center">
   Programadora Web | Desarrollo Backend | Sistemas ERP | Bases de Datos
